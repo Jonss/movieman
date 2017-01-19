@@ -16,9 +16,6 @@ import jonss.com.github.movieman.presenter.MainPresenter;
  */
 public class MainActivityFragment extends Fragment {
 
-    @Inject
-    MainPresenter presenter;
-
     public MainActivityFragment() {
     }
 
